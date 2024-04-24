@@ -1,0 +1,47 @@
+#the-canvas {
+    border: 3px solid black;
+    direction: ltr;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+    font-family: helvetica;
+    font-size: 24px;
+    text-align: center;
+    margin: 25px;
+}
+
+.small {
+    font-family: helvetica;
+    font-size: 18px;
+    text-align: center;
+    margin: 25px;
+}
+
+button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin-block-start: inherit;
+}
+
+input{
+    background-color: #a1d9ec;
+    border: "2px";
+    border-color: #008CBA;
+    color: "black";
+    padding: 15px;
+    font-size: 13px;
+    width: 300px;
+    margin-block-start: inherit;
+}
