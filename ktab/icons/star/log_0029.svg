@@ -1,18 +1,18 @@
 <svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
-	<circle cx="512.0" cy="512.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="512.0" cy="512.0" r="360" fill="transparent" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2261.946710584651,0.0"/>
+	<circle cx="512.0" cy="512.0" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="512.0" cy="512.0" r="360" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2261.946710584651,0.0"/>
 	<path d="M 512.0 0.0 L 512.0 1024.0" stroke="blue" stroke-width="1"/>
-	<circle cx="512.0" cy="152.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="512.0" cy="872.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
+	<circle cx="512.0" cy="152.0" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="512.0" cy="872.0" r="3" stroke="red" stroke-width="2"/>
 	<path d="M 1024.0 512.0 L 0.0 512.0" stroke="blue" stroke-width="1"/>
-	<circle cx="152.0" cy="512.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="872.0" cy="512.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="332.0" cy="200.23085463760208" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="332.0" cy="823.7691453623979" r="3" fill="transparent" stroke="red" stroke-width="2"/>
+	<circle cx="152.0" cy="512.0" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="872.0" cy="512.0" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="332.0" cy="200.23085463760208" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="332.0" cy="823.7691453623979" r="3" stroke="red" stroke-width="2"/>
 	<path d="M 332.0 200.23085463760208 L 332.0 823.7691453623979" stroke="blue" stroke-width="1"/>
-	<circle cx="332.0" cy="512.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="734.4922359499622" cy="512.0" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="169.61965413374475" cy="400.7538820250189" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="854.3803458662553" cy="400.7538820250189" r="3" fill="transparent" stroke="red" stroke-width="2"/>
-	<circle cx="169.61965413374475" cy="400.7538820250189" r="423.20538165058065" fill="transparent" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2659.0778359062574,0.0"/>
+	<circle cx="332.0" cy="512.0" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="734.4922359499622" cy="512.0" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="169.61965413374475" cy="400.7538820250189" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="854.3803458662553" cy="400.7538820250189" r="3" stroke="red" stroke-width="2"/>
+	<circle cx="169.61965413374475" cy="400.7538820250189" r="423.20538165058065" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2659.0778359062574,0.0"/>
 </svg>

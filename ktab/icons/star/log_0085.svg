@@ -1,5 +1,5 @@
 <svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
-	<circle cx="512.0" cy="512.0" r="360" fill="transparent" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2261.946710584651,0.0"/>
+	<circle cx="512.0" cy="512.0" r="360" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2261.946710584651,0.0"/>
 	<path d="M 300.3973091747097 803.246117974981 L 511.9999999999998 649.507764050038" stroke="orange" stroke-width="5"/>
 	<path d="M 511.9999999999998 649.507764050038 L 723.6026908252904 803.2461179749811" stroke="orange" stroke-width="5"/>
 	<path d="M 723.6026908252904 803.2461179749811 L 642.777655040965 554.492235949962" stroke="orange" stroke-width="5"/>
