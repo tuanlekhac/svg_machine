@@ -1,11 +1,11 @@
 <svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
-	<circle cx="466.45922760896025" cy="344.5886396607336" r="3" fill="none" stroke="red" stroke-width="2"/>
-	<circle cx="600.3706189701923" cy="577.0178963990762" r="3" fill="none" stroke="red" stroke-width="2"/>
-	<path d="M 380.00673328833767 0.0 L 636.9140830822178 1024.0" stroke="blue" stroke-width="1"/>
-	<circle cx="502.7406242191317" cy="489.2016690607221" r="131.31376797211178" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="825.0687375527621,0.0"/>
-	<circle cx="470.7861498049768" cy="361.83520085205777" r="3" fill="none" stroke="red" stroke-width="2"/>
-	<path d="M 600.3706189701923 577.0178963990762 L 470.7861498049768 361.83520085205777" stroke="blue" stroke-width="1"/>
-	<circle cx="535.5783843875845" cy="469.42654862556697" r="3" fill="none" stroke="red" stroke-width="2"/>
-	<circle cx="535.5783843875845" cy="469.42654862556697" r="38.33241293090895" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="240.8496537162279,0.0"/>
-	<path d="M 1024.0 175.29576070576192 L 0.0 791.955460445355" stroke="blue" stroke-width="1"/>
+	<circle cx="515.9592571853726" cy="298.52702659493605" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="547.7022765601021" cy="548.3181503090476" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 795.5678744745416 0.0 L 0.0 849.3962536774011" stroke="blue" stroke-width="1"/>
+	<circle cx="515.9592571853726" cy="298.52702659493605" r="251.7999697485745" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="1582.1058702725077,0.0"/>
+	<circle cx="688.0902524475039" cy="114.74959262805535" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 547.7022765601021 548.3181503090476 L 688.0902524475039 114.74959262805535" stroke="blue" stroke-width="1"/>
+	<circle cx="617.896264503803" cy="331.53387146855147" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="617.896264503803" cy="331.53387146855147" r="107.14758639161516" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="673.2281405155518,0.0"/>
+	<path d="M 1024.0 463.0288344141157 L 0.0 131.46123163958077" stroke="blue" stroke-width="1"/>
 </svg>
