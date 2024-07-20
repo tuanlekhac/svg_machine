@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
+	<circle cx="576.6617672706586" cy="620.891587393034" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="561.1422110680683" cy="489.2273167412902" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 1010.903028949909 0.0 L 294.7344401201301 1024.0" stroke="blue" stroke-width="1"/>
+	<circle cx="615.6919930981461" cy="565.0849632674868" r="93.43479681586723" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="587.068142532767,0.0"/>
+	<circle cx="669.2416401404722" cy="488.5180215911694" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 561.1422110680683 489.2273167412902 L 669.2416401404722 488.5180215911694" stroke="blue" stroke-width="1"/>
+	<circle cx="561.1422110680683" cy="489.2273167412902" r="108.10175606987" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="679.2233654185188,0.0"/>
+	<circle cx="669.2416401404722" cy="488.5180215911694" r="108.10175606987" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="679.2233654185188,0.0"/>
+	<circle cx="614.5776579854844" cy="395.2558174549339" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="615.806193223056" cy="582.4895208775257" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 614.5776579854844 395.2558174549339 L 615.806193223056 582.4895208775257" stroke="blue" stroke-width="1"/>
+</svg>
