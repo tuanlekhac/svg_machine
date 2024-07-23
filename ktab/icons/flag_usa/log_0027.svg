@@ -31,5 +31,5 @@
 	<circle cx="512.0" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
 	<circle cx="512.0" cy="200.23085463760208" r="3" fill="none" stroke="red" stroke-width="2"/>
 	<path d="M 512.0 512.0 L 512.0 200.23085463760208" stroke="orange" stroke-width="5"/>
-	<path stroke="orange" stroke-width="5" fill="blue" opacity="0.4" d="M 512.0 512.0 L 512.0 200.23085463760208 L 332.0 200.23085463760208 L 152.0 512.0 Z"/>
+	<path stroke="orange" stroke-width="5" fill="none" opacity="1.0" d="M 512.0 512.0 L 512.0 200.23085463760208 L 332.0 200.23085463760208 L 152.0 512.0 Z"/>
 </svg>
