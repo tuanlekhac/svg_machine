@@ -1,5 +1,5 @@
 <svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
-	<path stroke="orange" stroke-width="5" fill="red" opacity="1.0" d="M 692.0 200.23085463760208 L 332.0 200.23085463760208 L 152.0 512.0 L 332.0 823.7691453623979 L 692.0 823.7691453623979 L 872.0 512.0 Z"/>
+	<path stroke="red" stroke-width="5" fill="none" opacity="1.0" d="M 692.0 200.23085463760208 L 332.0 200.23085463760208 L 152.0 512.0 L 332.0 823.7691453623979 L 692.0 823.7691453623979 L 872.0 512.0 Z"/>
 	<circle cx="872.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="152.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="692.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
@@ -16,12 +16,12 @@
 	<path d="M 669.6409152160288 0.0 L 0.0 850.5581978528" stroke="blue" stroke-width="1"/>
 	<path d="M 718.7318243069334 0.0 L 0.0 912.9120269252871" stroke="blue" stroke-width="1"/>
 	<circle cx="512.0" cy="262.58468371008" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<path d="M 767.8227333978474 0.0 L 0.0 975.2658559977507" stroke="blue" stroke-width="1"/>
-	<circle cx="512.0" cy="324.93851278255926" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<circle cx="410.7499999999999" cy="453.54328524455116" r="38.97114317029963" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="244.86291417161868,0.0"/>
-	<circle cx="434.8571428571419" cy="422.9231013250279" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<path d="M 444.4999999999998 473.028856829701 L 434.8571428571419 422.9231013250279" stroke="blue" stroke-width="1"/>
-	<circle cx="439.67857142857076" cy="447.97597907736446" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<path d="M 1024.0 335.5232677176816 L 0.0 532.5921596011115" stroke="blue" stroke-width="1"/>
-	<circle cx="468.6071428571413" cy="442.40867291017605" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="377.00000000000045" cy="434.05771365940063" r="38.97114317029957" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="244.86291417161834,0.0"/>
+	<circle cx="401.10714285714334" cy="403.4375297398798" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 410.7499999999999 453.54328524455116 L 401.10714285714334 403.4375297398798" stroke="blue" stroke-width="1"/>
+	<circle cx="410.7499999999999" cy="453.54328524455116" r="51.025203856245845" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="320.60081116540704,0.0"/>
+	<circle cx="401.10714285714334" cy="403.4375297398798" r="51.025203856245845" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="320.60081116540704,0.0"/>
+	<circle cx="362.5357142857142" cy="436.84136674299344" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="449.321428571429" cy="420.1394482414375" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="405.92857142857156" cy="428.49040749221547" r="3" fill="none" stroke="blue" stroke-width="2"/>
 </svg>

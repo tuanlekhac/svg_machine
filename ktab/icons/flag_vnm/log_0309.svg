@@ -1,0 +1,35 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
+	<path stroke="red" stroke-width="5" fill="none" opacity="1.0" d="M 692.0 200.23085463760208 L 332.0 200.23085463760208 L 152.0 512.0 L 332.0 823.7691453623979 L 692.0 823.7691453623979 L 872.0 512.0 Z"/>
+	<circle cx="872.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="152.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="692.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="332.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="512.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="512.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 512.0 512.0 L 512.0 200.23085463760208" stroke="blue" stroke-width="1"/>
+	<circle cx="512.0" cy="324.93851278255926" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="512.0" cy="512.0" r="187.06148721744074" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="1175.3419880237857,0.0"/>
+	<circle cx="334.0939536339903" cy="454.1948214567591" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="689.9060463660097" cy="454.1948214567591" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="402.0480165416919" cy="663.335922151962" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="621.9519834583081" cy="663.335922151962" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 512.0 324.9385127825592 L 402.0480165416919 663.335922151962" stroke="blue" stroke-width="1"/>
+	<path d="M 402.0480165416919 663.335922151962 L 689.9060463660097 454.1948214567591" stroke="blue" stroke-width="1"/>
+	<path d="M 689.9060463660097 454.1948214567591 L 334.0939536339903 454.1948214567591" stroke="blue" stroke-width="1"/>
+	<path d="M 334.0939536339903 454.1948214567591 L 621.9519834583081 663.335922151962" stroke="blue" stroke-width="1"/>
+	<path d="M 621.9519834583081 663.335922151962 L 512.0 324.9385127825592" stroke="blue" stroke-width="1"/>
+	<circle cx="444.04593709229925" cy="534.0796134777627" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="512.0" cy="583.451130130959" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="579.9540629077007" cy="534.0796134777627" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="553.9979205506075" cy="454.1948214567592" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 512.0 324.9385127825592 L 470.00207944939245 454.1948214567592" stroke="yellow" stroke-width="1"/>
+	<path d="M 470.00207944939245 454.1948214567592 L 334.0939536339903 454.1948214567591" stroke="yellow" stroke-width="1"/>
+	<path d="M 334.0939536339903 454.1948214567591 L 444.04593709229925 534.0796134777627" stroke="yellow" stroke-width="1"/>
+	<path d="M 444.04593709229925 534.0796134777627 L 402.0480165416919 663.335922151962" stroke="yellow" stroke-width="1"/>
+	<path d="M 402.0480165416919 663.335922151962 L 512.0 583.451130130959" stroke="yellow" stroke-width="1"/>
+	<path d="M 512.0 583.451130130959 L 621.9519834583081 663.335922151962" stroke="yellow" stroke-width="1"/>
+	<path d="M 621.9519834583081 663.335922151962 L 579.9540629077007 534.0796134777627" stroke="yellow" stroke-width="1"/>
+	<path d="M 579.9540629077007 534.0796134777627 L 689.9060463660097 454.1948214567591" stroke="yellow" stroke-width="1"/>
+	<path d="M 689.9060463660097 454.1948214567591 L 553.9979205506075 454.1948214567592" stroke="yellow" stroke-width="1"/>
+	<path d="M 553.9979205506075 454.1948214567592 L 512.0 324.9385127825592" stroke="yellow" stroke-width="1"/>
+</svg>
