@@ -4,8 +4,7 @@
 	<circle cx="152.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="692.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="332.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<circle cx="872.0" cy="512.0" r="720.0" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="4523.893421169302,0.0"/>
-	<circle cx="152.0" cy="512.0" r="720.0" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="4523.893421169302,0.0"/>
-	<circle cx="512.0" cy="1135.5382907247958" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="512.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="692.0" cy="200.23085463760208" r="360.0" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2261.946710584651,0.0"/>
+	<circle cx="512.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
 </svg>

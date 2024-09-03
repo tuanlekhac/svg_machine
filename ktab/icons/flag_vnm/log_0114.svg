@@ -11,6 +11,15 @@
 	<path d="M 1024.0 807.6033378250893 L 0.0 216.39666217491163" stroke="blue" stroke-width="1"/>
 	<circle cx="444.4999999999998" cy="473.028856829701" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="410.7499999999999" cy="453.54328524455116" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<circle cx="410.7499999999999" cy="453.54328524455116" r="38.97114317029963" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="244.86291417161868,0.0"/>
 	<circle cx="377.00000000000045" cy="434.05771365940063" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="343.2500000000007" cy="414.5721420742509" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 669.6409152160288 0.0 L 0.0 850.5581978528" stroke="blue" stroke-width="1"/>
+	<circle cx="343.2500000000007" cy="414.5721420742509" r="38.97114317029947" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="244.86291417161772,0.0"/>
+	<circle cx="367.357142857144" cy="383.95195815472897" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 377.00000000000045 434.05771365940063 L 367.357142857144 383.95195815472897" stroke="blue" stroke-width="1"/>
+	<circle cx="377.00000000000045" cy="434.05771365940063" r="51.0252038562461" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="320.6008111654087,0.0"/>
+	<circle cx="367.357142857144" cy="383.95195815472897" r="51.0252038562461" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="320.6008111654087,0.0"/>
+	<circle cx="328.7857142857146" cy="417.35579515784275" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="415.57142857142986" cy="400.6538766562869" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 328.7857142857146 417.35579515784275 L 415.57142857142986 400.6538766562869" stroke="blue" stroke-width="1"/>
 </svg>

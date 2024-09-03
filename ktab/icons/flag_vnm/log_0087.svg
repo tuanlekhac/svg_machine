@@ -7,6 +7,6 @@
 	<circle cx="512.0" cy="512.0" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="512.0" cy="200.23085463760208" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<path d="M 512.0 512.0 L 512.0 200.23085463760208" stroke="blue" stroke-width="1"/>
-	<circle cx="512.0" cy="434.0577136594005" r="3" fill="none" stroke="blue" stroke-width="2"/>
-	<circle cx="512.0" cy="512.0" r="77.94228634059948" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="489.7258283432388,0.0"/>
+	<circle cx="512.0" cy="473.02885682970026" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="512.0" cy="512.0" r="38.97114317029974" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="244.8629141716194,0.0"/>
 </svg>

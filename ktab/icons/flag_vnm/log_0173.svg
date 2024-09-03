@@ -20,4 +20,7 @@
 	<circle cx="512.0" cy="324.93851278255926" r="3" fill="none" stroke="blue" stroke-width="2"/>
 	<circle cx="410.7499999999999" cy="453.54328524455116" r="38.97114317029963" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="244.86291417161868,0.0"/>
 	<circle cx="434.8571428571419" cy="422.9231013250279" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<path d="M 444.4999999999998 473.028856829701 L 434.8571428571419 422.9231013250279" stroke="blue" stroke-width="1"/>
+	<circle cx="439.67857142857076" cy="447.97597907736446" r="3" fill="none" stroke="blue" stroke-width="2"/>
+	<circle cx="439.67857142857076" cy="447.97597907736446" r="29.459415181858624" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="185.09896462875736,0.0"/>
 </svg>
