@@ -1,0 +1,24 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
+	<circle cx="512.0" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 1024.0 512.0 L 0.0 512.0" stroke="blue" stroke-width="1"/>
+	<circle cx="245.95699595742042" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="778.0430040425796" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="204.8" cy="512.0" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="819.2" cy="512.0" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="512.0" cy="358.4" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="512.0" cy="665.6" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<path d="M 512.0 0.0 L 512.0 1024.0" stroke="blue" stroke-width="1"/>
+	<circle cx="378.9784979787102" cy="512.0000000000001" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="553.1569959574203" cy="512.0000000000002" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="798.6215020212899" cy="512.0" r="3" fill="none" stroke="orange" stroke-width="2"/>
+	<circle cx="686.1784979787102" cy="512.0000000000001" r="3" fill="none" stroke="orange" stroke-width="2"/>
+	<circle cx="665.5999999999999" cy="378.97849797871004" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="665.5999999999999" cy="645.02150202129" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="358.4000000000001" cy="645.02150202129" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="358.4000000000001" cy="378.9784979787098" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="619.6677469680653" cy="512.0000000000002" r="3" fill="none" stroke="orange" stroke-width="2"/>
+	<circle cx="977.5752570745144" cy="511.9999999999998" r="3" fill="none" stroke="orange" stroke-width="2"/>
+	<circle cx="898.3876285372572" cy="511.99999999999994" r="3" fill="none" stroke="orange" stroke-width="2"/>
+	<circle cx="1018.7322530319349" cy="511.9999999999999" r="3" fill="none" stroke="orange" stroke-width="2"/>
+	<circle cx="245.95699595742042" cy="512.0" r="373.7107510106449" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="2348.093899885133,0.0"/>
+</svg>

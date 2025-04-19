@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" desc="Created by KTab" version="1.2">
+	<circle cx="512.0" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<path d="M 1024.0 512.0 L 0.0 512.0" stroke="blue" stroke-width="1"/>
+	<circle cx="245.95699595742042" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="778.0430040425796" cy="512.0" r="3" fill="none" stroke="red" stroke-width="2"/>
+	<circle cx="245.95699595742042" cy="512.0" r="41.156995957420406" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="258.59703228731354,0.0"/>
+	<circle cx="778.0430040425796" cy="512.0" r="41.156995957420406" fill="none" stroke="gray" stroke-width="2" stroke-dashoffset="0.0" stroke-dasharray="258.59703228731354,0.0"/>
+	<circle cx="204.8" cy="512.0" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="819.2" cy="512.0" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="512.0" cy="358.4" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<circle cx="512.0" cy="665.6" r="3" fill="none" stroke="green" stroke-width="2"/>
+	<path d="M 512.0 0.0 L 512.0 1024.0" stroke="blue" stroke-width="1"/>
+</svg>
