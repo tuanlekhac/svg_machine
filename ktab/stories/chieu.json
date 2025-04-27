@@ -2,8 +2,7 @@
 	"name":"svg",
 	"height":417,
 	"width":598,
-	child=[
-		{
+	"child":[		{
 			"name":"path",
 			"d":[{"type":"M","data":[511.5,36.0]},{"type":"L","data":[519.0,37.5]},{"type":"L","data":[517.5,40.0]},{"type":"L","data":[507.0,42.5]},{"type":"L","data":[505.5,45.0]},{"type":"L","data":[503.0,43.5]},{"type":"Q","data":[502.5,39.5,505.5,39.0]},{"type":"L","data":[511.5,36.0]},{"type":"Z"}],
 			"fill":"#fbe5b3",
